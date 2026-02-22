@@ -29,3 +29,8 @@ export interface LogEntry{
     ok: boolean;
     
 }
+
+export interface Prompt {
+    prompt: string;
+    
+}
